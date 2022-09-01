@@ -369,7 +369,8 @@
                 "month": "07"
             },
             "end_date": {
-                "year": "februari 1854"
+                "year": "1854",
+                "month": "02"
             },
             "text": {
                 "headline": "Dagblad van Leyden",
@@ -415,7 +416,8 @@
                 "month": "03"
             },
             "end_date": {
-                "year": "september 1867"
+                "year": "1867",
+                "month": "09"
             },
             "text": {
                 "headline": "Nieuw Leidsch Dagblad",
@@ -810,7 +812,8 @@
                 "day": "19"
             },
             "end_date": {
-                "year": "3 Mai 1946"
+                "year": "1946",
+                "month": "305"
             },
             "text": {
                 "headline": "De Burcht",
