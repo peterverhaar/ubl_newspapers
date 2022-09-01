@@ -348,10 +348,12 @@
                 "url": "https://bookandbyte.universiteitleiden.nl/Timeline/img/TL24_Weekblad van Leyden 8-1-1853.jpg"
             },
             "start_date": {
-                "year": "12-1852"
+                "year": "1852",
+                "month": "12"
             },
             "end_date": {
-                "year": "07-1853"
+                "year": "1853",
+                "month": "07"
             },
             "text": {
                 "headline": "Weekblad van Leyden",
@@ -363,7 +365,8 @@
                 "url": "https://bookandbyte.universiteitleiden.nl/Timeline/img/TL25_Dagblad van Leyden 2-7-1853.jpg"
             },
             "start_date": {
-                "year": "07-1853"
+                "year": "1853",
+                "month": "07"
             },
             "end_date": {
                 "year": "februari 1854"
@@ -408,7 +411,8 @@
                 "url": "https://bookandbyte.universiteitleiden.nl/Timeline/img/TL28_Nieuw Leidsch Dagblad 12-3-1867.jpg"
             },
             "start_date": {
-                "year": "03-1867"
+                "year": "1867",
+                "month": "03"
             },
             "end_date": {
                 "year": "september 1867"
@@ -801,7 +805,9 @@
                 "url": "https://bookandbyte.universiteitleiden.nl/Timeline/img/TL55_De Burcht 20-6-1945.jpg"
             },
             "start_date": {
-                "year": "19-06-1945"
+                "year": "1945",
+                "month": "06",
+                "day": "19"
             },
             "end_date": {
                 "year": "3 Mai 1946"
