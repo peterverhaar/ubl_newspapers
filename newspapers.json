@@ -13,7 +13,6 @@
             "start_date": {
                 "year": "1686"
             },
-            "end_date": {},
             "text": {
                 "headline": "Ordinaire Leydse Courant",
                 "text": "De Ordinaris (of Ordinaire) Leydse Courant is de oudste Nederlandstalige Leidse krant, die in maart 1686 voor het eerst uitkwam. Deze krant zou de grondlegger van de Leydse/ Leidsche Courant worden, die tot 1902 uitkwam."
@@ -86,7 +85,6 @@
             "start_date": {
                 "year": "1795"
             },
-            "end_date": {},
             "text": {
                 "headline": "Hollandsche Courant",
                 "text": "Vanaf 3 april 1795 heette de Leydse Courant ongeveer een jaar lang de Hollandsche Courant. Ook de vormgeving van de kop veranderde, het wapen werd weggelaten. De toevoeging \u2018Vrijheid, Gelijkheid en Broederschap\u2019 bleef wel in gebruik. Ook de vermelding van de drukker van de krant onder de titel en niet langer onderaan de laatste pagina was een nieuwe ontwikkeling."
@@ -114,7 +112,6 @@
             "start_date": {
                 "year": "1811"
             },
-            "end_date": {},
             "text": {
                 "headline": "Gazette de Leyde/ Leydse Courant",
                 "text": "1811 was een bijzonder jaar voor de Leydse Courant. Vanaf dat moment verscheen deze krant namelijk als tweetalige versie. Hij heette vanaf nu Gazette de Leyde/ Leydse Courant. Zoals op de foto is te zien, werd het nieuws links in het Frans afgedrukt en in de rechter kolom in het Nederlands."
@@ -337,7 +334,6 @@
             "start_date": {
                 "year": "1618"
             },
-            "end_date": {},
             "text": {
                 "headline": "Courante der Stad Leyden",
                 "text": "De Courante der Stadt Leyden, Also vande Publicatie ende verkiesinge des Raedts aldaer geschiedt. Met de Namen der afgesette Burghermeesteren, Schepenen, ende Vroedschappen. Met het gheen dat dese daghen aldaer ghepasseert is lijkt een van de eerste kranten in Leiden te zijn geweest. Daarom wordt dit drukwerk als het om Nederlandstalige kranten gaat vaak genoemd. Echter blijkt uit onderzoek door verschillende onderzoekers dat dit geen regelmatig verschijnend blad was. Ondanks het woord \u2018Courant\u2019 in de titel, is het dat dus niet. Ook qua formaat lijkt het meer op een pamflet dan een krant. Toch is het interessant dat al in 1618 een drukwerk uitkwam dat zichzelf courant noemde."
@@ -353,7 +349,7 @@
             },
             "end_date": {
                 "year": "1853",
-                "month": "07"
+                "month": "7"
             },
             "text": {
                 "headline": "Weekblad van Leyden",
@@ -366,11 +362,11 @@
             },
             "start_date": {
                 "year": "1853",
-                "month": "07"
+                "month": "7"
             },
             "end_date": {
                 "year": "1854",
-                "month": "02"
+                "month": "2"
             },
             "text": {
                 "headline": "Dagblad van Leyden",
@@ -413,11 +409,11 @@
             },
             "start_date": {
                 "year": "1867",
-                "month": "03"
+                "month": "3"
             },
             "end_date": {
                 "year": "1867",
-                "month": "09"
+                "month": "9"
             },
             "text": {
                 "headline": "Nieuw Leidsch Dagblad",
@@ -536,7 +532,6 @@
             "start_date": {
                 "year": "1889"
             },
-            "end_date": {},
             "text": {
                 "headline": "Rijn- en Ijsselbode",
                 "text": "De Rijn- en Ijsselbode, die uit De Hollander was ontstaan, kwam in 1889 voor het eerst uit. Het was een antirevolutionair weekblad met een christelijke inslag. Het is niet duidelijk hoelang de krant heeft bestaan. Van dit blad zijn geen afbeeldingen beschikbaar."
@@ -699,7 +694,6 @@
             "start_date": {
                 "year": "1933"
             },
-            "end_date": {},
             "text": {
                 "headline": "De Omroeper",
                 "text": "De Omroeper heeft weinig geluk gehad en heeft maar korte tijd bestaan. Dit advertentieblad verscheen van 6 januari 1933 tot 12 mei 1933. Er werd nog gepoogd het blad voort te zetten onder de naam De juiste weg, maar dat heeft niet geholpen. Ook de publicatie van dit blad werd na korte tijd, in september 1933, stopgezet. Van dit blad kon geen exemplaar gevonden worden."
@@ -727,7 +721,6 @@
             "start_date": {
                 "year": "1940"
             },
-            "end_date": {},
             "text": {
                 "headline": "Het Parool",
                 "text": "Op 25 juli 1940 kwam de eerste uitgave van Het Parool uit. Wat eerst begon als een nieuwsbrief, gedrukt op losse bladen, groeide uit tot een echte krant. Het doel van Het Parool was duidelijk het verstrekken van correcte informatie tijdens de Tweede Wereldoorlog aan het Nederlandse volk."
@@ -785,7 +778,6 @@
             "start_date": {
                 "year": "1944"
             },
-            "end_date": {},
             "text": {
                 "headline": "Zuidhollandsch Dagblad",
                 "text": "Het Zuidhollandsch Dagblad werd vanaf 1 februari 1944 aan de abonnees van de Leidsche Courant bezorgd, omdat deze door de bezetters werd verboden. In de titel van het dagblad staat \u2018met daarin opgenomen de Leidsche Courant\u2019, om te verduidelijken dat dit het nieuwe alternatief was."
@@ -796,7 +788,6 @@
                 "url": "https://bookandbyte.universiteitleiden.nl/Timeline/img/TL54_Dagblad voor Leiden 3-1-1944.jpg"
             },
             "start_date": {},
-            "end_date": {},
             "text": {
                 "headline": "Dagblad voor Leiden en omstreken",
                 "text": "Het Dagblad voor Leiden en omstreken kwam tussen 1944 en 1946 uit, het moest het Leidsch Dagblad vervangen. Dit laatste kreeg trouwens na de oorlog de titel: Leidsch Dagblad - Dagblad voor Leiden en omstreken. Hieruit blijkt dat er uit deze twee kranten een combinatie is ontstaan."
@@ -808,12 +799,13 @@
             },
             "start_date": {
                 "year": "1945",
-                "month": "06",
+                "month": "6",
                 "day": "19"
             },
             "end_date": {
                 "year": "1946",
-                "month": "305"
+                "month": "5",
+                "day": "3"
             },
             "text": {
                 "headline": "De Burcht",
@@ -827,7 +819,6 @@
             "start_date": {
                 "year": "1945"
             },
-            "end_date": {},
             "text": {
                 "headline": "De Vrije Pers",
                 "text": "De Vrije Pers werd door de kernredactie van De Kroniek gesticht en kwam alleen in 1945 uit. De Vrije Pers was een combinatie van verschillende Nederlandse bladen, aangezien men van mening was dat het beter was om de krachten te bundelen. Volgende kranten maakten deel uit van De Vrije Pers: De Bevrijding, The Home Service, Je Maintiendrai, Kroniek van de Week, Ons Volk, De Ploeg, Trouw, De Vrije Katheder, Vrije Stemmen, Vrij Nederland en De Waarheid."
@@ -838,10 +829,9 @@
                 "url": "https://bookandbyte.universiteitleiden.nl/Timeline/img/TL57_Leidsch Dagblad 1-10-1946.jpg"
             },
             "start_date": {
-                "year": "1"
-            },
-            "end_date": {
-                "year": "2"
+                "year": "1946",
+                "month": "2",
+                "day": "1"
             },
             "text": {
                 "headline": "Leidsch Dagblad",
@@ -870,7 +860,6 @@
             "start_date": {
                 "year": "1977"
             },
-            "end_date": {},
             "text": {
                 "headline": "Mare",
                 "text": "De Mare is de opvolger van Acta ed Agenda, de studentenkrant van de Universiteit Leiden. Deze krant wilde een klankbord voor de lezer zijn, een onafhankelijk geluid geven en de universiteitswereld kritisch volgen."
@@ -883,7 +872,6 @@
             "start_date": {
                 "year": "1977"
             },
-            "end_date": {},
             "text": {
                 "headline": "Leids Nieuwsblad",
                 "text": "Vanaf september 1977 verscheen er in Leiden het Leids Nieuwsblad. Het blad verschijnt nog steeds wekelijks op donderdag en wordt verspreid in de gemeenten Leiden, Leiderdorp, Oegstgeest, Zoeterwoude en gedeeltelijk in Voorschoten. Het kan tevens ook online gelezen worden."
