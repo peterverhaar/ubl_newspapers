@@ -787,7 +787,12 @@
             "media": {
                 "url": "https://bookandbyte.universiteitleiden.nl/Timeline/img/TL54_Dagblad voor Leiden 3-1-1944.jpg"
             },
-            "start_date": {},
+            "start_date": {
+                "year": "1944"
+            },
+            "end_date": {
+                "year": "1946"
+            },
             "text": {
                 "headline": "Dagblad voor Leiden en omstreken",
                 "text": "Het Dagblad voor Leiden en omstreken kwam tussen 1944 en 1946 uit, het moest het Leidsch Dagblad vervangen. Dit laatste kreeg trouwens na de oorlog de titel: Leidsch Dagblad - Dagblad voor Leiden en omstreken. Hieruit blijkt dat er uit deze twee kranten een combinatie is ontstaan."
