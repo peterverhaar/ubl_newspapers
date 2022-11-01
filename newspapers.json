@@ -245,7 +245,7 @@
                 "year": "1992"
             },
             "text": {
-                "headline": "De Leidsche Courant",
+                "headline": "De Leidse Courant",
                 "text": "De Leidsche Courant werd gedurende de oorlog twee jaar lang verboden en mocht tussen 1944 en 1946 niet verschijnen. Op 6 mei 1946 kwam eindelijk weer een nieuwe uitgave van De Leidsche Courant, Katholiek dagblad voor Leiden en omstreken uit. De krant bleef tot 30 juni 1947 zo heten. Vanaf 1 juli 1947 werd de naam aangepast naar De Leidse Courant, Katholiek dagblad voor Leiden en omstreken. Onder deze naam bleef het blad tot 14 november 1992 bestaan."
             }
         },
@@ -658,11 +658,11 @@
         {
 
             "start_date": {
-                "month":"01"
+                "month":"1",
                 "year": "1933"
             },
             "end_date": {
-                "month":"05"
+                "month":"5",
                 "year": "1933"
             },
             "text": {
@@ -682,7 +682,7 @@
             },
             "text": {
                 "headline": "Volk en Vaderland",
-                "text": "Vanaf 1933 verscheen de NSB-krant Volk en Vaderland. Deze krant werd, net zoals veel andere nieuwsbladen, waaronder Het Parool en daarvoor de Ordinaire Leydse Courant, op het Rapenburg gedrukt. Na het einde van de oorlog werd de druk van het blad verboden."
+                "text": "Vanaf 1933 verscheen de NSB-krant Volk en Vaderland. Deze krant werd, net zoals veel andere nieuwsbladen, waaronder Het Parool en daarvoor de Ordinaire Leydse Courant, op het Rapenburg gedrukt. Na de oorlog werd de druk van het blad verboden."
             }
         },
         {
@@ -702,14 +702,18 @@
                 "url": "https://bookandbyte.universiteitleiden.nl/Timeline/img/TL50_Bericht Nr. 175 11-1-1944.jpg"
             },
             "start_date": {
+              "day":"9",
+              "month":"6",
                 "year": "1943"
             },
             "end_date": {
+              "day":"24",
+              "month":"7",
                 "year": "1944"
             },
             "text": {
                 "headline": "Bericht nr. ...",
-                "text": "Bericht nr. (1, 2, 3, etc.) was een illegaal verzetsblad dat tijdens de Tweede Wereldoorlog uitkwam. Het verscheen tussen 9 juni 1943 en 24 juli 1944. De vormgeving leek sterk op de eerste uitgaven van Het Parool, ook dit nieuws was op losse bladen gedrukt zodat een snelle verspreiding mogelijk was. Het Bericht verscheen dagelijks. Van deze publicatie zijn nog maar weinig uitgaven te vinden en degene die bestaan zijn niet meer van de beste kwaliteit, waardoor de hier getoonde scan wat wazig is."
+                "text": "Bericht nr. (1, 2, 3, etc.) was een illegaal verzetsblad dat tijdens de Tweede Wereldoorlog uitkwam. Het verscheen tussen 9 juni 1943 en 24 juli 1944. De vormgeving leek sterk op de eerste uitgaven van Het Parool, ook dit nieuws was op losse bladen gedrukt zodat een snelle verspreiding mogelijk was. Het Bericht verscheen dagelijks. Van deze publicatie zijn nog maar weinig uitgaven te vinden en degene die bestaan zijn niet meer van de beste kwaliteit, waardoor de hier getoonde scan wat wazig is. Het Parool is inmiddels uitgegroeid tot een veelgelezen dagblad."
             }
         },
         {
@@ -838,7 +842,7 @@
             },
             "text": {
                 "headline": "Mare",
-                "text": "De Mare is de opvolger van Acta ed Agenda, de studentenkrant van de Universiteit Leiden. Deze krant wilde een klankbord voor de lezer zijn, een onafhankelijk geluid geven en de universiteitswereld kritisch volgen."
+                "text": "De Mare is de opvolger van Acta ed Agenda, de studentenkrant van de Universiteit Leiden. Deze krant wilde een klankbord voor de lezer zijn, een onafhankelijk geluid geven en de universiteitswereld kritisch volgen. Dit universitair weekblad wordt nog steeds uitgegeven."
             }
         },
         {
