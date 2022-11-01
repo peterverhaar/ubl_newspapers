@@ -164,7 +164,7 @@
         },
         {
             "media": {
-                "url": "https://bookandbyte.universiteitleiden.nl/Timeline/img/TL12_Leidsche Courant 12-10-1869.jpg"
+                "url": "https://bookandbyte.universiteitleiden.nl/Timeline/img/Leidsche_Courant_1869.JPG"
             },
             "start_date": {
                 "year": "1869"
@@ -915,9 +915,9 @@
             }
         },
         {
-            "media": {
-                "url": "https://bookandbyte.universiteitleiden.nl/Timeline/img/TL65_De Leidsche Post 14-12-1945.jpg"
-            },
+          "media": {
+              "url": "https://bookandbyte.universiteitleiden.nl/Timeline/img/TL65_De Leidsche Post 14-12-1945.jpg"
+          },
             "start_date": {
                 "year": "1945"
             },
@@ -930,6 +930,9 @@
             }
         },
         {
+            "media": {
+                "url": "https://bookandbyte.universiteitleiden.nl/Timeline/img/Leidsch_Weekblad.jpg"
+            },
             "start_date": {
                 "year": "1879"
             },
