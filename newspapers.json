@@ -197,7 +197,7 @@
                 "year": "1906"
             },
             "end_date": {
-                "year": "1920"
+                "year": "1943"
             },
             "text": {
                 "headline": "De Leidsche Courant",
@@ -216,7 +216,7 @@
             },
             "text": {
                 "headline": "Nieuwe Leidsche Courant",
-                "text": "Op 29 maart 1913 kwam een proefnummer van de Nieuwe Leidsche Courant, Christelijk Dagblad uit. Het was de bedoeling om vanaf april deze krant regelmatig te laten verschijnen. Echter was tot 24 mei 1913 nog niks te bekennen van deze Nieuwe Leidsche Courant. Wel kwam op die dag het eerste nummer van De Meiboom uit. Uiteindelijk verscheen op 1 april 1920 het eerste reguliere nummer van de Nieuwe Leidsche Courant. Het was een dagblad met een protestants-christelijke neiging en een antirevolutionaire instelling. Deze krant werd in 1941 door de Duitse bezetter verboden."
+                "text": "Op 29 maart 1913 kwam een proefnummer van de Nieuwe Leidsche Courant, Christelijk Dagblad uit. Het was de bedoeling om deze krant vanaf april regelmatig te laten verschijnen. Hij was echter tot 24 mei 1913 nog nergens te bekennen. Wel kwam op die dag het eerste nummer van De Meiboom uit. Uiteindelijk verscheen op 1 april 1920 het eerste reguliere nummer van de Nieuwe Leidsche Courant. Het was een dagblad met een protestants-christelijke neiging en een antirevolutionaire instelling. De krant werd in 1941 door de Duitse bezetter verboden."
             }
         },
         {
@@ -656,7 +656,13 @@
             }
         },
         {
+
             "start_date": {
+                "month":"01"
+                "year": "1933"
+            },
+            "end_date": {
+                "month":"05"
                 "year": "1933"
             },
             "text": {
